@@ -1,1 +1,1 @@
-# SpaceX-predcition
+# SpaceX-prediction
